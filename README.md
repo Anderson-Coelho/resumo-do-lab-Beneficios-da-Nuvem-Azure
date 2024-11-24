@@ -49,7 +49,9 @@ O objetivo deste material é demonstrar os benefícios que a computação em nuv
 
 ## Conclusão
 
-A nuvem, especialmente com o **Microsoft Azure**, proporciona benefícios significativos para empresas e desenvolvedores. A escalabilidade e elasticidade permitem que as organizações cresçam de forma eficiente, enquanto a confiabilidade, segurança e governança oferecem confiança e controle. Com ferramentas robustas para gerenciar, monitorar e proteger dados, a computação em nuvem torna-se uma solução prática e essencial para a transformação digital das empresas.
+A nuvem, especialmente com o **Microsoft Azure**, proporciona benefícios significativos para empresas e desenvolvedores. A escalabilidade e elasticidade permitem que as organizações cresçam de forma eficiente, enquanto a confiabilidade, segurança e governança oferecem confiança e controle. Com ferramentas robustas para gerenciar, monitorar e proteger dados, a computação em nuvem torna-se uma solução prática e essencial para a transformação digital das empresas. Este repositório serve como um guia para entender como esses aspectos podem ser aproveitados para otimizar operações de TI e promover a inovação. 
+
+Este repositório foi criado para compartilhar o conteúdo e aprendizados sobre os benefícios da Nuvem Azure com a comunidade.
 
 ## Recursos Adicionais
 
@@ -66,10 +68,6 @@ A nuvem, especialmente com o **Microsoft Azure**, proporciona benefícios signif
 ## Licença
 
 Este repositório está licenciado sob a [MIT License](LICENSE).
-
-## Conclusão Os benefícios da Nuvem Azure são vastos e variados, oferecendo escalabilidade, elasticidade, confiabilidade, previsibilidade, segurança, governança e gerenciabilidade. Este repositório serve como um guia para entender como esses aspectos podem ser aproveitados para otimizar operações de TI e promover a inovação. --- 
-
-*Este repositório foi criado para compartilhar o conteúdo e aprendizados sobre os benefícios da Nuvem Azure com a comunidade.*
 
 ## Contato
 
